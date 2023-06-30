@@ -46,18 +46,30 @@ cozinhar sem dúvidas é o meu hobbie preferido.**
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 
-<div>
+ <div align="center">
+  <div align="center">
+  <a href="https://github.com/nataliasalles1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliasalles1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
+</br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasalles1&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+<div align="left">
  <h3 align="left">Conecte-se comigo</h3>
 
 <a href="https://www.youtube.com/channel/UC3fPcqHjwZA6rDPdrosMv4Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nataliasalles1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:natalia.salles100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nataliasalles100" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
  </div>
 
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/7abf3563443256f768df24eea685ea57.gif" img align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
- ![snake gif](https://github.com/nataliasalles1/nataliasalles1/blob/output/github-contribution-grid-snake.svg)
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nataliasalles1/count.svg" /></p>
+
+ ![snake gif](https://github.com/Nataliasalles1/Nataliasalles1/blob/output/github-contribution-grid-snake.svg)
 
 
