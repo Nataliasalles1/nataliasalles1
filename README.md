@@ -58,6 +58,6 @@ cozinhar sem dúvidas é o meu hobbie preferido.**
 
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/7abf3563443256f768df24eea685ea57.gif" img align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
- ![Snake animation](https://github.com/natalisalles1/nataliasalles1/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/nataliasalles1/nataliasalles1/blob/output/github-contribution-grid-snake.svg)
 
 
