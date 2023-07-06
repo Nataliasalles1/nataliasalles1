@@ -15,7 +15,7 @@ cozinhar sem dúvidas é o meu hobbie preferido.**
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
-<h4 align="left">Noção básica em:</h4>
+<h4 align="left">Base solidificada em:</h4>
 
 <p align="left"> <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a> 
