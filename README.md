@@ -10,7 +10,7 @@
 
 - 📄 Explore o meu currículo e experiências pelo [meu Linkedin](https://www.linkedin.com/in/nataliasalles100/).
 
--⚡ Fun facts: **Eu me apaixonei por lógica e lógica de programação! Gosto de montar quebra-cabeças apartir de 1000 peças! Amo jogar video game e praticar musculação.
+-⚡ Fun facts: **Eu me apaixonei por lógica e lógica de programação! Gosto de montar quebra-cabeças a partir de 1000 peças! Amo jogar video game e praticar musculação.
 cozinhar sem dúvidas é o meu hobbie preferido.**
 
 <h3 align="left">Linguagens e Ferramentas</h3>
